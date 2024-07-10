@@ -1,1 +1,3 @@
 this is first file in folder three
+this is vs code project
+hello from vs code
